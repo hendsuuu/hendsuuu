@@ -15,8 +15,8 @@ jobs:
         # this action name
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          GH_TOKEN: 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 # optional if on profile readme
+          WAKATIME_API_KEY: waka_76eb5c82-2f32-4ddb-a119-2006470e177e # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: hendsuuu/hendsuuu # optional
@@ -24,7 +24,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
-          CODE_LANG: rust # optional
+          CODE_LANG: javascript # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional

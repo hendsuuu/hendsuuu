@@ -1,5 +1,6 @@
 ### Hi there 👋
-START_SECTION:waka
+<!--START_SECTION:waka-->
+
 
 
 name: Waka Readme
@@ -19,7 +20,7 @@ jobs:
           WAKATIME_API_KEY: waka_76eb5c82-2f32-4ddb-a119-2006470e177e
           GH_TOKEN: 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
           
-END_SECTION:waka
+<!--END_SECTION:waka-->
 <!--
 **hendsuuu/hendsuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

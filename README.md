@@ -2,6 +2,7 @@ START_SECTION:waka
 ### Hi there 👋
 
 SHOW_LANGUAGE:waka
+SHOW_LANGUAGE:waka
 
 name: Waka Readme
 

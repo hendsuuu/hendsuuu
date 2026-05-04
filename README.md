@@ -69,5 +69,18 @@
 
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendsuuu&theme=tokyonight" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendsuuu&theme=tokyonight" alt="GitHub Profile Summary"/> </p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendsuuu&theme=tokyonight" alt="GitHub Profile Summary" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hendsuuu&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hendsuuu&theme=tokyonight" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hendsuuu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 

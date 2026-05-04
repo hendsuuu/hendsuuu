@@ -11,7 +11,6 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 - 💻 Self-taught **Fullstack Web Developer**
@@ -19,7 +18,6 @@
 - 🤖 Passionate about Artificial Intelligence
 - 🤝 Open for **Freelance Opportunities**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +50,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
----
 
 ## 📫 Connect With Me
 
@@ -70,9 +67,7 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendsuuu&theme=tokyonight" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendsuuu&theme=tokyonight" alt="GitHub Profile Summary"/> </p>
 
----

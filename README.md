@@ -1,62 +1,78 @@
-<!--START_SECTION:SHOW_TOTAL_CODE_TIME -->
-<h1 align="center"> Hi there 👋, I'm Hendraa</h1>
+<h1 align="center">Hi 👋, I'm Hendraa</h1>
+<h3 align="center">🚀 Web Developer | Data Scientist | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://github.com/hendsuuu/hendsuuu/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/hendsuuu/hendsuuu/blob/main/github-user-contribution.svg" alt="snake animation">
 </p>
 
 <p align="center">
-	<a href="https://github.com/hendsuuu">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Data+Scientist;Data+Analyst;Always%20developing%20my%20skills&center=true&width=380&height=45">
-	</a>
+  <a href="https://github.com/hendsuuu">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Data+Scientist;Data+Analyst;Always+Learning+New+Things&center=true&width=380&height=45">
+  </a>
 </p>
-
-<pre>
-💻 I am a self taught Web Developer and Data Scientist
-🌱 Learning about NLP and Machine Learning stuff
-🌟 Main languages: PHP, Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
-🤝 I’m available for freelancing.
-</pre>
-
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/looker_studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-
-
-
-<div align="center">
-  <h3><b>Let's get in touch! </b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/hendrasutrisno/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/hendsuuuu/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:sutrishendra07@gmail.com" >
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<p>
 
 ---
 
-<!--END_SECTION:SHOW_TOTAL_CODE_TIME -->
+## 👨‍💻 About Me
+- 💻 Self-taught **Fullstack Web Developer**
+- 🌱 Currently learning **AI Automation & Web 3**
+- 🤖 Passionate about Artificial Intelligence
+- 🤝 Open for **Freelance Opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🎨 Styling
+![Bootstrap](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Tools
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🤖 Data & ML
+![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🛠 DevOps & Others
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hendrasutrisno/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/hendsuuuu/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sutrishendra07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendsuuu&theme=tokyonight" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendsuuu&theme=tokyonight" alt="GitHub Profile Summary"/> </p>
+
+---

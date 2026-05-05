@@ -10,6 +10,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Data+Scientist;Data+Analyst;Always+Learning+New+Things&center=true&width=380&height=45">
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hendsuuu&label=VISITOR+COUNT&color=7AAACE&style=for-the-badge" alt="Visitor Count" />
+</p>
 
 
 ## 👨‍💻 About Me
@@ -71,16 +74,16 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendsuuu&theme=tokyonight" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendsuuu&theme=city_lights" alt="GitHub Profile Summary" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hendsuuu&theme=tokyonight" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hendsuuu&theme=tokyonight" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hendsuuu&theme=city_lights" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hendsuuu&theme=city_lights" alt="Most Commit Language" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hendsuuu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hendsuuu&theme=iceberg&hide_border=true" alt="GitHub Streak" />
 
 </div>
 

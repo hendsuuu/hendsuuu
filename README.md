@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hendraa</h1>
-<h3 align="center">🚀 Web Developer | Data Scientist | Data Analyst</h3>
+<h3 align="center">🚀 Fullstack Developer | AI Product Buiilder | AI Automation Engineer</h3>
 
 <p align="center">
   <img src="https://github.com/hendsuuu/hendsuuu/blob/main/github-user-contribution.svg" alt="snake animation">
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/hendsuuu">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Data+Scientist;Data+Analyst;Always+Learning+New+Things&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Product+Builder;AI+Automation+Engineer;Always+Learning+New+Things&center=true&width=380&height=45">
   </a>
 </p>
 <p align="center">
